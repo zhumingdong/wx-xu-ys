@@ -1,0 +1,6 @@
+
+<view class="main">
+<!-- 公共的头部 -->
+<MyTea></MyTea>
+
+</view>
